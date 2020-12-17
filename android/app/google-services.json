@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784458991835",
+    "firebase_url": "https://workout-signin.firebaseio.com",
+    "project_id": "workout-signin",
+    "storage_bucket": "workout-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784458991835:android:9c6a688c7359fc87a7e4fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784458991835-4rkr9fk70an9j3da112jvl2fqsjvhncr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_fire_auth",
+            "certificate_hash": "fa922cc126cf91f554575d5bc936e7cd772573ef"
+          }
+        },
+        {
+          "client_id": "784458991835-34q56d9u9unilike17jq6d1c3ev4djmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYxmMSk-LaUooSjQ3QLVeAmIgBhLYmnEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784458991835-34q56d9u9unilike17jq6d1c3ev4djmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
